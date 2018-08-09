@@ -15,3 +15,5 @@
 - Open `EDA.ipynb` and execute it cell by cell
 - Open `FAERS-NeuralNetwork.ipynb` and execute it cell by cell
    - training the Neural network will take close to one hour
+- Open `Prediction.ipynb` and execute it cell by cell
+   - get real time prediction by specifying the features
